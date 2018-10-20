@@ -33,7 +33,7 @@ class Human(Monkey):
     pass
 
 
-class ModernHuman(Human, Plant):
+class ModernHuman(Alive, Plant):
     pass
 
 
